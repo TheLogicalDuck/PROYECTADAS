@@ -28,7 +28,7 @@ var customSongList:Array<Dynamic> = [
         {text: "Y onion en cebolla", anim: "shy"},
         {text: "¿Antonio es una hormiga encebollada?", anim: "uuhh"}
     ]}, 
-    {name: "Powerscaling", diff: "hard", dialogue: [
+    {name: "Powerscalingg", diff: "hard", dialogue: [
         {text: "Umm...", anim: "uuhh"}, 
         {text: "Esta tampoco está acabada", anim: "mad"}, 
         {text: "Solo... no sigas jugando", anim: "laugh"}
