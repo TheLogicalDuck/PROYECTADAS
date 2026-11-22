@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="300" y="100" sprite="logicalhamburguer" scale="1.6" icon="icon-fleetway" color="#FF6600" holdTime="6.1">
+	<anim name="idle" anim="idle"/>
+	<anim name="singUP" anim="up" indices="1,2"/>
+	<anim name="singLEFT" anim="left" indices="1,2"/>
+	<anim name="singRIGHT" anim="right" x="-35" indices="1,2"/>
+	<anim name="singDOWN" anim="down" x="5" y="26" indices="1,2"/>
+</character>

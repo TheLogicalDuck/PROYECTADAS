@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="fysd/fysd_phase_1" scale="1.8" antialiasing="false" flipX="true" camy="-100" isPlayer="true" icon="icon-fysd" color="#FFFFFF" holdTime="6.1">
+	<anim name="idle" anim="idle" x="78.22" y="153.29" loop="true"/>
+	<anim name="singUP" anim="up" x="78.22" y="153.29" indices="1..4"/>
+	<anim name="singLEFT" anim="left" x="78.22" y="153.29" indices="1..4"/>
+	<anim name="singRIGHT" anim="right" x="78.22" y="153.29" indices="1..4"/>
+	<anim name="singDOWN" anim="down" x="78.22" y="153.29" indices="1..4"/>
+</character>

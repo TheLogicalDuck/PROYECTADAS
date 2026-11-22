@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages\fatal/" startCamPosX="500" name="fataldomains" zoom="0.65">
+	<sprite antialiasing="false" x="393" sprite="fondomuybueno" y="106" scale="2" name="fondomuybueno"/>
+	<gf x="-632" y="108"/>
+	<dad camxoffset="-150" x="1000" camyoffset="80" y="400"/>
+	<bf x="1487" camyoffset="50" y="480"/>
+	<sprite antialiasing="false" x="1300" sprite="indexano" y="500" alpha="0" scale="4" name="indexano"/>
+</stage>

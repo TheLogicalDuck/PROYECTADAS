@@ -1,0 +1,15 @@
+{
+	"color": "#FFFFFF",
+	"customGameOver": "credits",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"hard"
+	],
+	"icon": "nothing",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Fertility",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 120
+}

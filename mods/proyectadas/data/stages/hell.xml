@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/hell/" name="hell" zoom="1">
+    <sprite name="bg" x="-650" y="-230" sprite="forest" scroll="0.9" scale="1.4" updateHitbox="true" antialiasing="false"/>
+    
+    <girlfriend/>
+    <dad/>
+    <boyfriend/>
+</stage>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="jefe" flipX="true" camy="-100" icon="icon-fatalbob" color="#FF0800" holdTime="6.1">
+	<anim name="idle" anim="idle" x="179" y="44.5" loop="true"/>
+	<anim name="singUP" anim="up" x="179" y="44.5"/>
+	<anim name="singLEFT" anim="right" x="179" y="44.5"/>
+	<anim name="singRIGHT" anim="left" x="179" y="44.5"/>
+	<anim name="singDOWN" anim="down" x="179" y="44.5"/>
+</character>

@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" y="-1070" sprite="fysd/fysd_phase_3" scale="1.6" antialiasing="false" flipX="true" camx="-450" camy="-230" isPlayer="true" icon="icon-fysd" color="#FFFFFF" holdTime="6.1">
+	<anim name="idle" anim="idle" x="-9.75" y="186.25" loop="true" indices="0..40"/>
+</character>

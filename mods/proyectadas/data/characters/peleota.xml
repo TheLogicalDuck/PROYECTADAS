@@ -1,0 +1,21 @@
+<!DOCTYPE codename-engine-character>
+<character x="415" y="230" scale="2" flipX="true" camy="-300" isPlayer="true" icon="icon-bubbleman" color="#2B6FE0" holdTime="6.1">
+	<anim name="idle" anim="rest"/>
+	<anim name="singLEFT" anim="bubblehit1" x="13" y="-9"/>
+	<anim name="singLEFT-alt" anim="bubblehit2" x="6" y="-8"/>
+	<anim name="singRIGHT" anim="bubbleblock2" x="-113" y="-37"/>
+	<anim name="singRIGHT-alt" anim="bubbleblock1" x="-167.2" y="-39.2"/>
+	<anim name="singRIGHTmiss" anim="bobhit2" x="-128" y="-35"/>
+	<anim name="singRIGHTmiss-alt" anim="bobhit1" x="-182" y="-35"/>
+	<anim name="singLEFTmiss" anim="bobblock2" x="77" y="-42"/>
+	<anim name="singLEFTmiss-alt" anim="bobblock1" x="80" y="-44"/>
+	<anim name="singUP" anim="bubbleuppercut" x="75" y="218"/>
+	<anim name="singUP-alt" anim="bobuppercut" x="-146" y="133.5"/>
+	<anim name="bubbleDODGE" anim="bubbledodge" x="20" y="-74"/>
+	<anim name="bubbleHOOK" anim="bubbleuppercut" x="70" y="217"/>
+	<anim name="bobDODGE" anim="bobdodge" x="-63" y="-26"/>
+	<anim name="bobHOOK" anim="bobuppercut" x="-142.5" y="133.5"/>
+	<anim name="singDOWN" anim="bubbledodge" x="32" y="-72.5"/>
+	<anim name="singDOWN-alt" anim="bobdodge" x="-65" y="-29"/>
+	<anim name="singDOWN-alt" anim="bobdodge" x="-65" y="-29"/>
+</character>

@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "mel",
+	"difficulties": [
+		"hard"
+	],
+	"color": "#FFFFFF",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Viaje del diablo",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 97
+}

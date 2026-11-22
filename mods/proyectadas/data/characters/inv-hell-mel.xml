@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="inv_hell_mel" scale="1.8" antialiasing="false" camx="-200">
+	<anim name="idle" anim="idle" x="-50" y="67.78"/>
+	<anim name="singDOWN" anim="down" x="-50" y="68.34"/>
+	<anim name="singRIGHT" anim="right" x="-50" y="67.78"/>
+	<anim name="singLEFT" anim="left" x="-50" y="67.78"/>
+	<anim name="singUP" anim="up" x="-50" y="67.78"/>
+</character>

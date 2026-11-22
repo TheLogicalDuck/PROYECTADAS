@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Mel" scale="0.7" antialiasing="false" flipX="true" camx="-100" camy="-40" isPlayer="true" icon="mel_perkality" color="#009BFF" imagePath="carmen.png">
+	<anim name="idle" anim="idle" x="-84.57" y="110.21"/>
+	<anim name="singDOWN" anim="down" x="-84.57" y="110.21"/>
+	<anim name="singLEFT" anim="left" x="-84.57" y="110.21"/>
+	<anim name="singRIGHT" anim="right" x="-84.57" y="110.21"/>
+	<anim name="singUP" anim="up" x="-84.57" y="110.21"/>
+</character>

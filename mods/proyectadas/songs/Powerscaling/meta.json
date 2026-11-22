@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#FFFFFF",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"hard"
+	],
+	"icon": "nothing",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Powerscaling",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 185
+}

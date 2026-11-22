@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="550" y="580" sprite="julius" scale="1.8" camx="-1000" camy="-500" icon="neria" color="#FFDE5B" holdTime="1.4">
+	<anim name="idle" anim="idle" x="465.56" y="195"/>
+	<anim name="singLEFT" anim="left" x="465.56" y="195"/>
+	<anim name="singDOWN" anim="down" x="465.56" y="195" fps="16"/>
+	<anim name="singRIGHT" anim="right" x="465.56" y="195" fps="16"/>
+	<anim name="singUP" anim="up" x="465.56" y="195" fps="16" indices="1..4"/>
+</character>

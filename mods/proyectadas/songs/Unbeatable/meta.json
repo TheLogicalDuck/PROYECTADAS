@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "all",
+	"difficulties": [
+		"hard"
+	],
+	"color": "#A77E7E",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Inpapeable",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 105
+}
