@@ -31,8 +31,8 @@ var customSongList:Array<Dynamic> = [
     {name: "Powerscalingg", diff: "hard", dialogue: [
         {text: "Umm...", anim: "uuhh"}, 
         {text: "Esta tampoco está acabada", anim: "mad"}, 
-        {text: "Solo... no sigas jugando", anim: "shy"}
-        {text: "...", anim: "idle"}
+        {text: "Solo... no sigas jugando", anim: "shy"},
+        {text: "...", anim: "idle"},
         {text: "ADIOS", anim: "laugh"}
     ]}
 ];
