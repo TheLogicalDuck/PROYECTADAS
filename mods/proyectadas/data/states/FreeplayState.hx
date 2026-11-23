@@ -24,14 +24,16 @@ var customSongList:Array<Dynamic> = [
     ]}, 
     {name: "Hell of a ride", diff: "hard", dialogue: [
         {text: "Patrón...", anim: "laugh"}, 
-        {text: "Si ant es hormiga en inglés", anim: "shy"},
+        {text: "Si ant es hormiga en ingles", anim: "shy"},
         {text: "Y onion en cebolla", anim: "shy"},
         {text: "¿Antonio es una hormiga encebollada?", anim: "uuhh"}
     ]}, 
     {name: "Powerscalingg", diff: "hard", dialogue: [
         {text: "Umm...", anim: "uuhh"}, 
         {text: "Esta tampoco está acabada", anim: "mad"}, 
-        {text: "Solo... no sigas jugando", anim: "laugh"}
+        {text: "Solo... no sigas jugando", anim: "shy"}
+        {text: "...", anim: "idle"}
+        {text: "ADIOS", anim: "laugh"}
     ]}
 ];
 
