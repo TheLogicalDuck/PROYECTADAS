@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#FFFFFF",
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "COME CLOSER",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 157
+}

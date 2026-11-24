@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/verity/" name="verity" zoom="1.2">
+    <sprite name="bg" x="0" y="0" sprite="bg" scroll="1" scale="1" updateHitbox="true" antialiasing="false"/>
+    
+    <girlfriend/>
+    <dad/>
+    <boyfriend/>
+</stage>

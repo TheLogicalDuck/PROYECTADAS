@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-800" y="-100" sprite="julioverity" flipX="true" camx="100" isPlayer="true">
+	<anim name="idle" anim="idle" indices="1..15"/>
+	<anim name="singDOWN" anim="down"/>
+	<anim name="singRIGHT" anim="right"/>
+	<anim name="singLEFT" anim="left"/>
+	<anim name="singUP" anim="up"/>
+	<anim name="idle (17)" anim="idle (17)"/>
+	<anim name="idle (18)" anim="idle (18)"/>
+	<anim name="idle (19)" anim="idle (19)"/>
+	<anim name="idle (20)" anim="idle (20)"/>
+</character>
