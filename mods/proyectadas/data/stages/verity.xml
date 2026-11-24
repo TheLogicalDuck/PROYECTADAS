@@ -1,6 +1,12 @@
 <!DOCTYPE codename-engine-stage>
-<stage folder="stages/verity/" name="verity" zoom="1.2">
-    <sprite name="bg" x="0" y="0" sprite="bg" scroll="1" scale="1" updateHitbox="true" antialiasing="false"/>
+<stage folder="stages/verity/" name="verity" zoom="1.1">
+    <sprite name="bg" x="80" y="0" sprite="bg" scroll="1" scale="1" updateHitbox="true" antialiasing="false"/>
+    <sprite name="back layer" x="0" y="67" sprite="back layer" scroll="0.7" scale="1" updateHitbox="true" antialiasing="false"/>
+    <sprite name="lijaCameo" x="-1500" y="15" sprite="Lijacameo" scale="1" updateHitbox="true" antialiasing="false">
+        <anim name="idle" anim="idle" fps="24" loop="true" />
+    </sprite>
+    <sprite name="front layer" x="0" y="0" sprite="front layer" scroll="1" scale="1" updateHitbox="true" antialiasing="false"/>
+    <sprite name="da box" x="100" y="0" sprite="da box" scroll="1" scale="0.9" updateHitbox="true" antialiasing="false"/>
     
     <girlfriend/>
     <dad/>

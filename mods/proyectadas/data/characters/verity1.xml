@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="-130" y="-160" scale="1.2" camx="-100" camy="150">
+<character x="-130" y="-160" scale="1.2" camx="-100" camy="150" icon="verity_placeholder" color="#FEDB02">
 	<anim name="idle" anim="idle" indices="1..15"/>
 	<anim name="singDOWN" anim="down" y="10" indices="13..21"/>
 	<anim name="singRIGHT" anim="right"/>
