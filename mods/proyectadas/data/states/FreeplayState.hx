@@ -27,13 +27,20 @@ var customSongList:Array<Dynamic> = [
         {text: "Si ant es hormiga en ingles", anim: "shy"},
         {text: "Y onion en cebolla", anim: "shy"},
         {text: "¿Antonio es una hormiga encebollada?", anim: "uuhh"}
-    ]}, 
+    ]},
     {name: "Powerscaling", diff: "hard", dialogue: [
         {text: "Umm...", anim: "uuhh"}, 
         {text: "Esta tampoco está acabada", anim: "mad"}, 
         {text: "Solo... no sigas jugando", anim: "shy"},
         {text: "...", anim: "idle"},
         {text: "ADIOS", anim: "laugh"}
+    ]},
+    {name: "Come closer", diff: "hard", dialogue: [
+        {text: "Hola!", anim: "happy"}, 
+        {text: "Soy Verity!", anim: "happy"},
+        {text: "Tu amigo y asistente personal!", anim: "happy"},
+        {text: "Preguntame lo que sea!", anim: "happy"},
+        {text: "Yo lo sé todo!", anim: "laugh"}
     ]}
 ];
 
